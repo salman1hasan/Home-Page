@@ -1,3 +1,3 @@
 # Home-Page
-<a href = index.html> </a>
+<a href = index.html> Click </a> 
 <a href = projects.html> </a>
